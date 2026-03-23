@@ -1,3 +1,0 @@
-defaults : 
-  - task01 : unetpp
-  - task01 : swim_trans_unet
