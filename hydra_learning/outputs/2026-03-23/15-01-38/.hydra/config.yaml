@@ -1,0 +1,9 @@
+model:
+  name: unet
+  size: 44
+data:
+  shape:
+  - 460
+  - 460
+  - 155
+  - 4
