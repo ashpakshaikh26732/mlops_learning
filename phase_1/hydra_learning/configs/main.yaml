@@ -1,2 +1,8 @@
 defaults : 
   - task01 : unetpp
+  - override hydra/job_logging: colorlog
+  - override hydra/hydra_logging: colorlog
+
+  
+ufm : ???
+
